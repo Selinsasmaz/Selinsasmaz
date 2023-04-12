@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on project
 - 💬 Ask me about anything
-- 📫 How to reach me: selin_sasmaz@hotmail.com
+- 📫 How to reach me: selin_sasmaz526@hotmail.com
 - ⚡ Fun fact: html,css,bootstrap
